@@ -1,0 +1,7 @@
+cauliflower
+broccoli
+celery
+carrot
+spinach
+kale
+rutabaga

@@ -1,0 +1,7 @@
+mango
+papaya
+strawberry
+kiwi
+pineapple
+oranges
+lemons
