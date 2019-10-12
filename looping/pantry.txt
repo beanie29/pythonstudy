@@ -1,0 +1,11 @@
+water
+wine
+pop
+soda
+beer
+cheeseburger
+pizza
+tacos
+chicken
+carrot
+apple
