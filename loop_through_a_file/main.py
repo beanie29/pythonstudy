@@ -8,6 +8,6 @@ with fileinput.input() as in_file:
             if letter in letters_count:
                 letters_count[letter] += 1
             else:
-                letters_count = 1
+                letters_count[letter] = 1
                 
 print(letters_count)
