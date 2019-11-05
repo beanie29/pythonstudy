@@ -20,7 +20,7 @@ for alien in aliens[:3]:
 for alien in aliens[:5]:
     print(alien)
 
-print("End of round one\n")    
+print("End of round one\n")
 
 for alien in aliens[:2]:
     if alien['colour'] == 'green':
@@ -36,4 +36,4 @@ for alien in aliens[:2]:
 for alien in aliens[:5]:
     print(alien)
 
-print("...")     
+print("...")
